@@ -5,7 +5,10 @@
 Courses:
 
 [Brown Neuroscience](https://cab.brown.edu/?dept=NEUR)
+
 [University of Washington: Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience/home/welcome)
+
+[Washington: Computational Neuroscience](http://compneuro.washington.edu/)
 
 Sites:
 
@@ -15,3 +18,7 @@ Sites:
 Books:
 
 [MIT Press: Computational Neuroscience](https://mitpress.mit.edu/category/series/computational-neuroscience)
+
+Organization:
+
+[International Youth Neuroscience Association](https://youthneuro.org/?gclid=CjwKCAjw87PNBRBAEiwA0XAIr23FHYX-WoEAiBvKO6jk6qebh8ZT2NcKp3DBvNWzAj1DVEkMcEqP0BoCW6QQAvD_BwE)

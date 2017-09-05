@@ -28,4 +28,4 @@ Organization:
 
 Investigators:
 
-[UTSC](http://neuroscience.utsa.edu/Investigators.html)
+[UTSA](http://neuroscience.utsa.edu/Investigators.html)

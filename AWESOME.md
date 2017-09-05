@@ -12,8 +12,10 @@ Courses:
 
 Sites:
 
-[Brown University Neuro Dug](http://brownuniversityneurodug.webflow.io/)
-[UT: Computational Neuroscience](http://www.cs.utexas.edu/users/ai-lab/?cns)
+- [Brown University Neuro Dug](http://brownuniversityneurodug.webflow.io/)
+- [UT: Computational Neuroscience](http://www.cs.utexas.edu/users/ai-lab/?cns)
+- [UTSA Neuroscience](http://neuroscience.utsa.edu/Home.html)
+
 
 Books:
 

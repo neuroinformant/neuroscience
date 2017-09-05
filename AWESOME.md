@@ -4,6 +4,7 @@
 Courses:
 
 [Brown Neuroscience](https://cab.brown.edu/?dept=NEUR)
+[University of Washington: Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience/home/welcome)
 
 Sites:
 
